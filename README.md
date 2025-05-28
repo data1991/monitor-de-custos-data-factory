@@ -35,6 +35,28 @@ Desafio - Criando um Monitoramento de Custos no Data Factory
 ##### Step 11: na página Visão Geral clique no botão "Ir para recurso".
 ![Image](https://github.com/user-attachments/assets/7ec57a20-7642-436a-a787-d9464473408e)
 
+![Image](https://github.com/user-attachments/assets/ade3bad7-6ac1-4fb8-a1a5-3740a2e93697)
+
+![Image](https://github.com/user-attachments/assets/722fcadf-a47f-400c-bfc2-bda21a1cc4b4)
+
+![Image](https://github.com/user-attachments/assets/88537c46-ea9d-437d-bb12-1e2066fbfaf9)
+
+![Image](https://github.com/user-attachments/assets/308287e5-6df6-420a-b8a1-01a44b397b06)
+
+![Image](https://github.com/user-attachments/assets/14e6ac7c-9e5d-4785-b218-00ff2a3eb442)
+
+![Image](https://github.com/user-attachments/assets/764c1c03-9205-4931-adad-994bdcd42ba2)
+
+![Image](https://github.com/user-attachments/assets/623942a6-b090-4073-ac8b-aae44561399f)
+
+![Image](https://github.com/user-attachments/assets/123f3aa0-bb45-4fbe-ab3f-4256912d28d4)
+
+![Image](https://github.com/user-attachments/assets/28132cad-6b4a-451b-a401-c2ded6f7613d)
+
+![Image](https://github.com/user-attachments/assets/2f514e04-2d72-4f34-a890-32fd93492a27)
+
+![Image](https://github.com/user-attachments/assets/8fe74b03-fdef-49b5-bc4e-ce4adbf1d842)
+
 
 
 
