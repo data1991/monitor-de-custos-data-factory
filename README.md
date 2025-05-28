@@ -27,10 +27,16 @@ Desafio - Criando um Monitoramento de Custos no Data Factory
 ![Image](https://github.com/user-attachments/assets/09ab58f8-09e9-4de9-be2b-e8a8a21394db)
 
 ##### Step 9: na aba "Marcas" preencha os campos com um nome e um valor e clique no botão "Examinar + criar.
-
+![Image](https://github.com/user-attachments/assets/64f0255a-78ee-4a32-873f-da2ece9da8b1)
 
 ##### Step 10: feito as etapas anteriores clique no botão "Criar".
-
+![Image](https://github.com/user-attachments/assets/e78c2590-0ccf-40cf-be83-a107f09ed236)
 
 ##### Step 11: na página Visão Geral clique no botão "Ir para recurso".
+![Image](https://github.com/user-attachments/assets/7ec57a20-7642-436a-a787-d9464473408e)
+
+
+
+
+
 
