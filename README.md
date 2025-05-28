@@ -11,7 +11,8 @@ Desafio - Criando um Monitoramento de Custos no Data Factory
 ##### Step 3: já estando na página Data factories clique em "+ Criar".
 ![Image](https://github.com/user-attachments/assets/c1a67a00-2b3a-460d-b19c-25ac9a66ecd9)
 
-##### Step 4: 
+##### Step 4: caso não tenha um grupo de recursos, clique no botão "Criar novo" digite o nome e clique no botão "Ok".
+![Image](https://github.com/user-attachments/assets/a652a0af-a483-46e6-b944-26b390abf3c6)
 
 ##### Step 5: preencha os campos destacados e clique no botão "Próxima".
 ![Image](https://github.com/user-attachments/assets/8fb1a495-5770-4bbc-aa51-76f4e780ea3b)
