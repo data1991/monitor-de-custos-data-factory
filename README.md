@@ -35,26 +35,37 @@ Desafio - Criando um Monitoramento de Custos no Data Factory
 ##### Step 11: na página Visão Geral clique no botão "Ir para recurso".
 ![Image](https://github.com/user-attachments/assets/7ec57a20-7642-436a-a787-d9464473408e)
 
+##### Step 12: clique em "Monitoramento" nas opções ao lado. 
 ![Image](https://github.com/user-attachments/assets/ade3bad7-6ac1-4fb8-a1a5-3740a2e93697)
 
+##### Step 13: em Monitoramento vá até a opção "Metrica", clique no botão e quando abrir a aba Selecionar um escopo check o recurso "Data factory (v2)".
 ![Image](https://github.com/user-attachments/assets/722fcadf-a47f-400c-bfc2-bda21a1cc4b4)
 
+##### Step 14: clique no botão "Aplicar".
 ![Image](https://github.com/user-attachments/assets/88537c46-ea9d-437d-bb12-1e2066fbfaf9)
 
+##### Step 15: no campo Metrica, selecione a opção "Succeeded pipeline runs metrics".
 ![Image](https://github.com/user-attachments/assets/308287e5-6df6-420a-b8a1-01a44b397b06)
 
+##### Step 16: no campo Agregação, selecione a opção "Contagem" e observe o resultado abaixo. 
 ![Image](https://github.com/user-attachments/assets/14e6ac7c-9e5d-4785-b218-00ff2a3eb442)
 
+##### Step 17: clique em "Salvar no painel" e em "Fixar no painel".
 ![Image](https://github.com/user-attachments/assets/764c1c03-9205-4931-adad-994bdcd42ba2)
 
+##### Step 18: na aba Fixar no painel, selecione o Tipo como "Privado" -> Painel -> "Meu Dashboard", clique no botão "Fixar" e volte para "Página inicial".
 ![Image](https://github.com/user-attachments/assets/623942a6-b090-4073-ac8b-aae44561399f)
 
+##### Step 19: vá até a opção "Hub de painel" na opção "Painés" ao lado, selecione  a opção "Painéis privados" e clique em "Meu Dashboard".
 ![Image](https://github.com/user-attachments/assets/123f3aa0-bb45-4fbe-ab3f-4256912d28d4)
 
+##### Step 20: clique no seu recurso.
 ![Image](https://github.com/user-attachments/assets/28132cad-6b4a-451b-a401-c2ded6f7613d)
 
+##### Step 21: visualise o sucesso e as falhas do Monitoramento.
 ![Image](https://github.com/user-attachments/assets/2f514e04-2d72-4f34-a890-32fd93492a27)
 
+### Resultado
 ![Image](https://github.com/user-attachments/assets/8fe74b03-fdef-49b5-bc4e-ce4adbf1d842)
 
 
